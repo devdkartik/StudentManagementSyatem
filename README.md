@@ -1,1 +1,2 @@
-# StudentManagementSyatem
+# SMS
+ student management system
